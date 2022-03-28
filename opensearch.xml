@@ -4,8 +4,8 @@
   <ShortName>ActiveMember360</ShortName>
   <Description>Search ActiveMember360</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://digitalfactorycr.github.io/docs-activemember360-page/img/activemember360_documentation_favicon.png</Image>
-  <Url type="text/html" method="get" template="https://digitalfactorycr.github.io/docs-activemember360-page/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://digitalfactorycr.github.io/docs-activemember360-page/opensearch.xml" />
-  <moz:SearchForm>https://digitalfactorycr.github.io/docs-activemember360-page/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://docs.activemember360.com/img/activemember360_documentation_favicon.png</Image>
+  <Url type="text/html" method="get" template="https://docs.activemember360.com/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.activemember360.com/opensearch.xml" />
+  <moz:SearchForm>https://docs.activemember360.com/</moz:SearchForm>
 </OpenSearchDescription>
