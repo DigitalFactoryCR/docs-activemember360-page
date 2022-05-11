@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4531],{66468:function(e){e.exports=JSON.parse('{"title":"Releases","description":"Learn about each ActiveMember360 release:","slug":"/category/releases","permalink":"/category/releases","navigation":{"next":{"title":"Versions 4.x.x","permalink":"/category/releases-4"}}}')}}]);

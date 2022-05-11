@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[6629],{7716:function(e){e.exports=JSON.parse('{"title":"Blocks","description":"Learn how to use WordPress Block Editor ActiveMember360 Blocks:","slug":"/category/blocks","permalink":"/category/blocks","navigation":{"next":{"title":"ActiveMember360 Login","permalink":"/blocks/login"}}}')}}]);
