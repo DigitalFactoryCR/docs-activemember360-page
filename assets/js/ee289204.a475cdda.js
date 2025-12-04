@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwebsite=globalThis.webpackChunkwebsite||[]).push([[77450],{59546:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"API","description":"Learn about the ActiveMember360 API:","slug":"/category/api","permalink":"/category/api","sidebar":"api","navigation":{"next":{"title":"JS","permalink":"/category/js"}}}}')}}]);
